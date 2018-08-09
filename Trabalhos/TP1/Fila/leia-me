@@ -1,0 +1,22 @@
+Thiago Moraes
+Matrícula: 21452625
+1º Trabalho Prático de Técnicas de Programação!
+ 
+ 
+Para utilizar o programa, basta seguir os passos baixo:
+
+1) Clicar em Cadastro
+ 1.1) Preencher todos os campos;
+ 1.2) Clicar em enviar que uma mensagem de confirmação irá aparecer;
+ 1.3) Clique em voltar;
+
+2)Clique em Marcar;
+ 2.1) Preencha os campos;
+ 2.2) Clique em Marcar, uma mensagem de confirmação será exibidade;
+
+3)Clique em Consultar
+ 3.1)Digite o cpf do paciente que marcou a busca;
+ 3.2)Clique em buscar e retornar a confimação e os dados da consulta;
+
+ 
+	 

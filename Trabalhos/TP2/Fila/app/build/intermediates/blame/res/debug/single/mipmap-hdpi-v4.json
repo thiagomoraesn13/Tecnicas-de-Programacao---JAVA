@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/thiagomoraes/AndroidStudioProjects/Fila/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/indice.png",
+        "source": "/home/thiagomoraes/AndroidStudioProjects/Fila/app/src/main/res/mipmap-hdpi/indice.png"
+    },
+    {
+        "merged": "/home/thiagomoraes/AndroidStudioProjects/Fila/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/thiagomoraes/AndroidStudioProjects/Fila/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

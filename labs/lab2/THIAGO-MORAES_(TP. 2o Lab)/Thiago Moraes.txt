@@ -1,0 +1,9 @@
+Thiago Moraes 
+Matrícula : 21452625
+
+
+saída:
+
+Processador: intel  <->  velocidade: 4.5
+Memoria: Ram <-> Memoria: virtual
+Disco: hd  <-> Potência: 2.5
